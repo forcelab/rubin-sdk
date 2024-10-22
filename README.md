@@ -1,7 +1,7 @@
 # Rubin SDK Game Engine
 Download the latest build from the [Releases](https://github.com/coronalabs/corona/releases) page and join the community on [Discord](https://discord.gg/Abf5V9G) and the [forums](https://forums.solar2d.com/).
 
-## Rebranded Corona SDK
+## A fork of Solar2D
 > Simple to learn and use, completely free and open source 2D game engine.
 
 ![Solar2D Logo](logo.png)
@@ -12,7 +12,7 @@ Rubin SDK is a cross-platform framework which is ideal for rapidly creating apps
 ## Benefits of usage Solar2D
 * Free for everybody – Enterprise features for every developer.
 * The easiest development tool for 2D games and mobile applications.
-* Solar2D allows creating apps easily, up to 10 times faster than other frameworks. 
+* RubinSDK allows creating apps easily, up to 10 times faster than other frameworks. 
 * Supported by a detailed documentation system. 
 * Write the code once, run it many different places – Solar2D supports all major mobile platforms.
 * Constantly growing pool of first-party and community provided plugins and ready-to-go app assets.
