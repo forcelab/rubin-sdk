@@ -5,6 +5,7 @@ Download the latest build from the [Releases](https://github.com/coronalabs/coro
 > Simple to learn and use, completely free and open source 2D game engine.
 
 <center>
+  
 ![Solar2D Logo](logo.png)
 </center>
 
