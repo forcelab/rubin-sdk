@@ -64,7 +64,7 @@ Note that Solar2D incorporates many libraries, both [third-party](sdk/dmg/Corona
 If you are willing to improve Solar2D by contributing code, fork this repository and create a pull request with desired improvements. The project uses [git submodules](https://git-scm.com/book/en/Git-Tools-Submodules), so to clone the whole source code tree run
 
 ```sh
-git clone --recursive https://github.com/coronalabs/corona.git
+git clone --recursive https://github.com/forcelab/rubin-sdk.git
 ```
 
 Due to the open source nature of Solar2D distribution, all contributors would have to sign a simple Contributor License Agreement (CLA) to ensure that their code can be part of Solar2D ecosystem. For more details see [CONTRIBUTING.md](CONTRIBUTING.md).
