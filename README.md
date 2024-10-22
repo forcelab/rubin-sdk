@@ -12,16 +12,17 @@ Download the latest build from the [Releases](https://github.com/coronalabs/coro
 ## Easy-to-learn & powerful
 Rubin SDK is a cross-platform framework which is ideal for rapidly creating apps and games for mobile devices, TV, desktop systems and HTML5. That means you can create your project once and publish it to multiple devices, including Apple iPhone and iPad, Android phones and tablets, Amazon Fire, Mac Desktop, Windows Desktop, Linux, HTML5 and even connected TVs such as Apple TV, Amazon Fire TV, and Android TV.
 
-## Benefits of usage Solar2D
+## Benefits of usage Rubin SDK
 * Free for everybody – Enterprise features for every developer.
 * The easiest development tool for 2D games and mobile applications.
-* RubinSDK allows creating apps easily, up to 10 times faster than other frameworks. 
+* Rubin SDK allows creating apps easily, up to 10 times faster than other frameworks. 
 * Supported by a detailed documentation system. 
 * Write the code once, run it many different places – Solar2D supports all major mobile platforms.
 * Constantly growing pool of first-party and community provided plugins and ready-to-go app assets.
 * A vibrant community of both application and game developers.
 * Simulator, which runs the app directly on PC/Mac, simplifies the prototyping process and helps quickly test ideas and concepts.
 * A logical and consistent API that covers over 1000 functions and allows to get things up and running very fast.
+* With rewritten lua, your resource.car is now are being defended from "hackers"
 
 ## Feature highlights
 
