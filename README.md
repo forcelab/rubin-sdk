@@ -1,12 +1,12 @@
 # Rubin SDK Game Engine
-Download the latest build from the [Releases](https://github.com/coronalabs/corona/releases) page and join the community on [Discord](https://discord.gg/Abf5V9G) and the [forums](https://forums.solar2d.com/).
+Download the latest build from the Releases
 
 ## A fork of Solar2D
 > Simple to learn and use, completely free and open source 2D game engine.
 
 <center>
   
-![Solar2D Logo](logo.png)
+![Solar2D Logo](rubin.png)
 </center>
 
 ## Easy-to-learn & powerful
